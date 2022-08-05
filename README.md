@@ -2,12 +2,12 @@
 
 ### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/anonbots1"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Zaid-Vc-Player&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=botmakerbd&repo=Zaid-Vc-Player&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
@@ -18,7 +18,7 @@
 
 🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@genStr_Bot](https://t.me/genStr_Bot)
+[@genStr_Bot](https://t.me/anonbots1)
 
 [![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/PyroStringSession#main.py)
 ###   
@@ -27,7 +27,7 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/SUPERIOR_BOTS/160)
+[CLICK HERE](https://t.me/anonbots1)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
@@ -59,7 +59,7 @@ Fork Deploy is highly recommended
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/TIMESISNOTWAITING/Zaid-Vc-Player/tree/Umm), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/botmakerbd/Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
 [![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Zaid-Vc-Player&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,ZAID_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
 
@@ -72,4 +72,4 @@ Fork Deploy is highly recommended
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/Superior_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superior_bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LIVE_CVV_CC"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/anonbots1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
